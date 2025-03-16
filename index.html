@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treinamento Js</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <section>
+        <span id="messageHello" class="space-Title"></span>
+        <div id="input-section">
+            <ul>
+                <li>
+                    <label for="num1" id="labelNum1">Insira o primeiro número aqui:</label>
+                    <input name="num1" type="number" id="numero1" placeholder="5" >
+                </li>
+                <li>
+                    <label for="num2" id="labelNum2">Insira o segundo número aqui:</label>
+                    <input name="num2" type="number" id="numero2" placeholder="10">
+                </li>
+            </ul>
+            <div class="section-buttons">
+                <button id="dividir">Dividir</button>
+                <button id="somar">Somar</button>
+                <button id="multi">Multiplicar</button>
+                <button id="subtrair">Subtrair</button>
+                <button id="media">Média</button>
+            </div>
+            <ul id="section-result">
+                <li>
+                    <label for="result">Resultado final</label>
+                    <input type="number" name="result" id="result">
+                </li>
+            </ul>
+            <ul>
+                <li class="section-buttons">
+                    <label for="">Qual a temperatura de hoje?</label>
+                    <input type="number" id="temp" placeholder="18"> 
+                    <button id="aplicarTemp">Aplicar</button>
+                </li>
+                <span id="resultTemp" class="span-style"></span>
+            </ul>
+            <div id="contador" class="section-buttons">
+                <button id="btnContador">Contagem pata lançamento!</button>
+                <span id="contador10" class="span-style"></span>
+            </div>
+        </div>
+    </section>
+    <script src="index.js"></script>
+</body>
+</html>

@@ -3,7 +3,7 @@
 Projeto de treinamento em JavaScript que realiza operações matemáticas básicas, exibe mensagens de boas-vindas alternadas, avalia a temperatura e implementa um contador regressivo para lançamento.
 
 ## 🌍 Acesse o Projeto
-🔗 [Clique aqui para acessar](https://rodrigo-falcao.github.io/ToDoList/)
+🔗 [Clique aqui para acessar](https://rodrigo-falcao.github.io/JsProject/)
 
 ## 📌 Funcionalidades
 

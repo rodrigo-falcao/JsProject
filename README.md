@@ -28,16 +28,7 @@ Projeto de treinamento em JavaScript que realiza operações matemáticas básic
 - **CSS3**
 - **JavaScript (ES6)**
 
-## 🚀 Como Executar
-
-1. **Clone o Repositório:**
-
-   ```bash
-   git clone https://github.com/seu-usuario/treinamento-js.git
-
-💡 Para melhor experiência, utilize a extensão Live Server no VSCode para rodar o projeto localmente.
-
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 bash
 Copiar
 Editar
@@ -46,14 +37,9 @@ treinamento-js/<br/>
 ├── style.css       # Estilização e layout<br/>
 └── index.js        # Lógica das funcionalidades<br/>
 
+🔹 **Projeto criado para aprendizado e prática!** 🚀 Sinta-se à vontade para contribuir ou sugerir melhorias. 😊
 
-
-
-
-🤝 Contribuições
-Contribuições são bem-vindas! <br/>
-Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
+## 📸Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7c709e3b-64a9-4e30-abcb-7155c2dce207" alt="Screenshot do projeto">
 </p>

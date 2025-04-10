@@ -2,7 +2,7 @@
 
 Projeto de treinamento em JavaScript que realiza operações matemáticas básicas, exibe mensagens de boas-vindas alternadas, avalia a temperatura e implementa um contador regressivo para lançamento.
 
-## 🌍 Acesse o Projeto
+# 🌍 Acesse o Projeto
 🔗 [Clique aqui para acessar](https://rodrigo-falcao.github.io/JsProject/)
 
 ## 📌 Funcionalidades
@@ -37,7 +37,7 @@ treinamento-js/
 ```
 🔹 **Projeto criado para aprendizado e prática!** 🚀 Sinta-se à vontade para contribuir ou sugerir melhorias. 😊
 
-## 📸Screenshots
+## 📸 Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7c709e3b-64a9-4e30-abcb-7155c2dce207" alt="Screenshot do projeto">
 </p>

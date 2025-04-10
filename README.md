@@ -7,19 +7,19 @@ Projeto de treinamento em JavaScript que realiza operações matemáticas básic
 
 ## 📌 Funcionalidades
 
-- 🔢 **Operações Matemáticas:**  
+* Operações Matemáticas:
   - Soma, subtração, divisão, multiplicação e cálculo de média entre dois números inseridos pelo usuário.
 
-- 🌡️ **Avaliação de Temperatura:**  
+* Avaliação de Temperatura:
   - Exibe mensagens dinâmicas dependendo da temperatura informada.
 
-- ⏳ **Contador Regressivo:**  
+* Contador Regressivo: 
   - Inicia uma contagem regressiva de 10 segundos e exibe a mensagem **"Lançamento autorizado! 🚀🚀"** ao final.
 
-- 👋 **Mensagem de Boas-Vindas:**  
+* Mensagem de Boas-Vindas:
   - Alterna entre as mensagens **"Seja bem-vindo!"** e **"É um prazer recebê-lo aqui!"** a cada segundo.
 
-- 🎨 **Interface Responsiva:**  
+* Interface Responsiva: 
   - Layout simples e intuitivo utilizando HTML, CSS e JavaScript.
 
 ## 🛠️ Tecnologias Utilizadas
@@ -29,14 +29,12 @@ Projeto de treinamento em JavaScript que realiza operações matemáticas básic
 - **JavaScript (ES6)**
 
 ## 📂 Estrutura do Projeto
-bash
-Copiar
-Editar
-treinamento-js/<br/>
+```
+treinamento-js/
 ├── index.html      # Estrutura HTML do projeto<br/>
 ├── style.css       # Estilização e layout<br/>
 └── index.js        # Lógica das funcionalidades<br/>
-
+```
 🔹 **Projeto criado para aprendizado e prática!** 🚀 Sinta-se à vontade para contribuir ou sugerir melhorias. 😊
 
 ## 📸Screenshots
